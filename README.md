@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Suraj Kumar</h1>
-<h3 align="center">🚀 Third-Year Computer Science Student | Full-Stack Enthusiast | Passionate About AI & Sustainable Tech</h3>
+<h3 align="center">  Third-Year Computer Science Student | Full-Stack Enthusiast | Passionate About AI & Sustainable Tech</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Learning+DSA+%26+Web+Development;Exploring+AI+%26+Full+Stack;Believer+in+Sustainable+Tech;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
