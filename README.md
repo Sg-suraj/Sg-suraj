@@ -30,9 +30,9 @@ Git • GitHub • Netlify • Render
 ---
 
 ## 📫 Let’s Connect  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](#)  
-- 🌐 Portfolio: [your-portfolio-link](#)  
-- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/suraj-kumar-930b47235)  
+- 🌐 [Portfolio](https://surajkumar-main.netlify.app/)  
+- 📧 surajchandan09@gmail.com  
 
 ---
 
