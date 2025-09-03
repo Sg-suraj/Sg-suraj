@@ -19,18 +19,6 @@ A final-year Computer Science student specializing in building robust and scalab
 
 ---
 
-### Featured Projects
-
-#### **Online Doctor Appointment & AI Health Summary System**
-* **Technologies:** React, Node.js, Flask, Firebase, OpenAI API
-* **Description:** A secure full-stack portal for doctor-patient communication, featuring real-time appointment scheduling and AI-powered health summary generation using the OpenAI API.
-
-#### **Custom DNS Server**
-* **Technologies:** Java, Socket Programming
-* **Description:** A custom DNS server built to simulate hierarchical query resolution and optimize query handling efficiency.
-
----
-
 ### Certifications
 
 -   **Oracle Certified:** Java
