@@ -21,6 +21,8 @@ Backend Development: Python, Flask, Gunicorn
 Databases & Platforms: Firebase (Firestore, Authentication), Google Gemini API, MySQL
 
 Developer Tools & Deployment: Git, GitHub, Netlify, Render
+
+
 ---
 
 
